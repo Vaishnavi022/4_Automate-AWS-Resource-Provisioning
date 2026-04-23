@@ -115,7 +115,7 @@ python main.py
 
 ---
 
-### 🔹 EC2 Instance Running (Final Output ✅)
+### 🔹 EC2 Instance Running
 
 ![EC2 Instance](images/ec2-instance.png)
 
